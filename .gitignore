@@ -1,0 +1,9 @@
+# Ignore the localized virtual environment
+vhdp/
+
+# Ignore local Python caching modules
+__pycache__/
+*.pyc
+
+# Ignore user-specific VS Code configuration environment states
+.vscode/
